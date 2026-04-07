@@ -26,10 +26,38 @@
 
 [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,js,mongodb,redis,npm,docker,git,postman,cpp&perline=11)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Imagdy00&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Imagdy00&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imagdy00&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📄 Professional Resume Snapshot
+---
+
+### 🎓 Education
+- **Nahda University** | *B.Sc. in Computer Science* (Sep 2021 – Jun 2025)  
+  > **GPA:** 3.3
+
+### 💼 Experience & Internships
+| Institution | Role | Period |
+| :--- | :--- | :--- |
+| **Route Academy** | .NET Backend Development Intern | *Oct 2024 – Jun 2025* |
+| **Digital Egypt Pioneers (DEPI)** | .NET Developer Intern | *Apr 2024 – Nov 2024* |
+| **Information Technology Institute (ITI)** | .NET & Web Development Intern | *Jun 2024 – Aug 2024* |
+
+### 🛠️ Key Technical Focus
+- **Backend:** .NET 8, Web API, SignalR, EF Core, Clean Architecture.
+- **Frontend:** Angular 21, TypeScript, Tailwind CSS.
+- **AI Integration:** LLM API Integration, NLP, Prompt Engineering.
+
+---
+
+### 📥 Full Curriculum Vitae
+<p align="left">
+  <a href="رابط_السي_في_على_جوجل_درايف_هنا" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Full_CV-239120?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-magdy0" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
 
 ### ⚡ Quick Intro
 <p align="left">
