@@ -49,7 +49,7 @@
 
 ### 📥 Full Curriculum Vitae
 <p align="left">
-  <a href="رابط_السي_في_على_جوجل_درايف_هنا" target="_blank">
+  <a href="https://drive.google.com/file/d/1LOXGtIQ2G2bFPzIX7au5XLup1Npv2U8r/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Full_CV-239120?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Download CV" />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-magdy0" target="_blank">
