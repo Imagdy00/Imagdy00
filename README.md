@@ -15,11 +15,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Imagdy00&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Imagdy00&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
-[![trophies](https://github-profile-trophy.vercel.app/?username=Imagdy00&theme=shadow_green&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+### ⚡ Quick Intro
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&width=435&lines=Software+Engineer;Full-stack+Developer;AI+Enthusiast;Learning+Advanced+.NET" alt="Typing SVG" />
+</p>
 
-### 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Imagdy00&theme=shadow_green)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 GitHub Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Imagdy00/Imagdy00/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Imagdy00/Imagdy00/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Imagdy00/Imagdy00/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 [![](https://visitcount.itsvg.in/api?id=Imagdy00&icon=0&color=0)](https://visitcount.itsvg.in)
 
