@@ -5,8 +5,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohammed.magdy.abo.hetta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//https://www.linkedin.com/in/mohamed-magdy0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imagdy0)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhmdmagdy772@gmail.com) 
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,blazor,js,html,css,mssql)](https://skillicons.dev)
+
+## 💻 Technical Skills & Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,rxjs,redux,jest,flutter,dart,ts,html,css,js,postgres,mongodb,redis,firebase,npm,docker,nginx,git,postman,cpp&perline=11)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Imagdy00&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
