@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Smart Intelligent eBook — an AI-powered platform for summarizing books and generating interactive quizzes.<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack web apps, AI-based educational tools, and .NET back-end solutions.<br><br>🆘 I’m looking for help with<br><br>Improving AI model accuracy and optimizing large-scale database performance.<br><br>🌱 I’m currently learning<br><br>Advanced C#, Entity Framework, LINQ, and AI/ML techniques for educational systems.<br><br>💬 Ask me about<br><br>Backend development with .NET, database design, and building smart learning tools.<br><br>⚡ Fun fact<br><br>I love turning complex ideas into simple, clean systems — and I learn best by building real projects.
+<div align="center">
+  <h1>Hi 👋, I'm Mohamed Magdy</h1>
+  <h3>Software Engineer | Full Stack .NET Developer </h3>
+</div>
+
+---
+
+
+
+
+### 💫 About Me:
+- 🚀 **Currently Building:** [Smart Intelligent eBook](رابط_المشروع) — AI-powered summarization & interactive quizzes.
+- 💻 **Tech Focus:** Advanced .NET 8, Clean Architecture, and AI/ML integration.
+- 💬 **Ask me about:** Backend development, Database design, and Building smart learning tools.
+- ⚡ **Fun Fact:** I believe in "Clean Code" and I learn best by building real-world projects.
+
+---
 
 
 ## 🤝 Connect With Me:
