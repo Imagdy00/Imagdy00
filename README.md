@@ -2,8 +2,21 @@
 🔭 I’m currently working on<br><br>Smart Intelligent eBook — an AI-powered platform for summarizing books and generating interactive quizzes.<br><br>🤝 I’m looking to collaborate on<br><br>Full-stack web apps, AI-based educational tools, and .NET back-end solutions.<br><br>🆘 I’m looking for help with<br><br>Improving AI model accuracy and optimizing large-scale database performance.<br><br>🌱 I’m currently learning<br><br>Advanced C#, Entity Framework, LINQ, and AI/ML techniques for educational systems.<br><br>💬 Ask me about<br><br>Backend development with .NET, database design, and building smart learning tools.<br><br>⚡ Fun fact<br><br>I love turning complex ideas into simple, clean systems — and I learn best by building real projects.
 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/mohammed.magdy.abo.hetta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//https://www.linkedin.com/in/mohamed-magdy0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imagdy0)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhmdmagdy772@gmail.com) 
+## 🤝 Connect With Me:
+<p align="left">
+  <a href="mailto:muhmdmagdy772@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" width="45" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-magdy0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="45" height="35" />
+  </a>
+  <a href="https://wa.me/201141552701" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" width="45" height="35" />
+  </a>
+  <a href="https://t.me/imagdy0" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahulchakraborty/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="telegram" width="45" height="35" />
+  </a>
+</p>
 
 
 ## 💻 Technical Skills & Tools:
