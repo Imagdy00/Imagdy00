@@ -4,17 +4,20 @@
 
 ## 🤝 Connect With Me:
 <p align="left">
-  <a href="mailto:muhmdmagdy772@gmail.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_gmail/google_gmail-icon.svg" alt="gmail" width="45" height="45" />
-  </a>
   <a href="https://www.linkedin.com/in/mohamed-magdy0" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" />
+  </a>
+  <a href="mailto:muhmdmagdy772@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" />
   </a>
   <a href="https://wa.me/201141552701" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="whatsapp" width="45" height="45" />
+    <img src="https://skillicons.dev/icons?i=whatsapp" alt="whatsapp" height="45" />
   </a>
-  <a href="https://t.me/imagdy0" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="telegram" width="45" height="45" />
+  <a href="https://www.facebook.com/mohammed.magdy.abo.hetta/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="45" />
+  </a>
+  <a href="رابط_تليجرام_هنا" target="_blank">
+    <img src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="45" />
   </a>
 </p>
 
