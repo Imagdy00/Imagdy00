@@ -8,7 +8,7 @@
 
 ## 💻 Technical Skills & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,rxjs,redux,jest,flutter,dart,ts,html,css,js,postgres,mongodb,redis,firebase,npm,docker,nginx,git,postman,cpp&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,cs,angular,ts,html,css,js,mongodb,redis,npm,docker,git,postman,cpp&perline=11)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Imagdy00&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
