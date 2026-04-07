@@ -5,19 +5,19 @@
 ## 🤝 Connect With Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-magdy0" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="45" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhmdmagdy772@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="45" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://wa.me/201141552701" target="_blank">
-    <img src="https://skillicons.dev/icons?i=whatsapp" alt="whatsapp" height="45" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mohammed.magdy.abo.hetta/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="facebook" height="45" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="رابط_تليجرام_هنا" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" alt="telegram" height="45" />
+  <a href="https://t.me/imagdy0" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
