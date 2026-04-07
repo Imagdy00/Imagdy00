@@ -20,12 +20,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=239120&width=435&lines=Software+Engineer;Full-stack+Developer;AI+Enthusiast;Learning+Advanced+.NET" alt="Typing SVG" />
 </p>
 
-### 📊 Engineering Metrics
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=Imagdy00&show_icons=true&theme=transparent&hide_border=true&title_color=239120&icon_color=239120&text_color=ffffff&bg_color=00000000" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imagdy00&layout=compact&theme=transparent&hide_border=true&title_color=239120&text_color=ffffff&bg_color=00000000" height="150" />
-</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=Imagdy00&icon=0&color=0)](https://visitcount.itsvg.in)
 
